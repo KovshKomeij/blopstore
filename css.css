@@ -13,7 +13,6 @@ body {
 }
 
 .taber {
-    display: flex;
     font-size: 24px;
     position: fixed; /* Фиксированное положение */
     left: 0; up: 0; /* Левый нижний угол */
