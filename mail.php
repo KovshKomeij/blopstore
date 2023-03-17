@@ -24,11 +24,7 @@ $mail->addAddress('dibil228of@blopsoft.ru');     // Кому будет уход
 $mail->isHTML(true);                                  // Set email format to HTML
 
 $mail->Subject = 'Приложение $name';
-$mail->Body    = 'Привет, я $avtor и я хочу отправить своё приложени в Blopstore, вот инофрмация про моё приложение:
-Название: $name
-Описание: $desc
-веб-адрес приложения: $webad
-Надеюсь что моё приложение попдёт в BlopStore.';
+$mail->Body    = 'Привет, я $avtor и я хочу отправить своё приложени в Blopstore, вот инофрмация про моё приложение: Название: $name Описание: $desc веб-адрес приложения: $webad Надеюсь что моё приложение попдёт в BlopStore.';
 $mail->AltBody = '';
 
 if(!$mail->send()) {
