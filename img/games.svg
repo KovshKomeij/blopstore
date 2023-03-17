@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64mm"
+   height="64mm"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="games.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.7544578"
+     inkscape:cx="162.28239"
+     inkscape:cy="136.14295"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#e5e5e5;stroke:none;stroke-width:0.110944px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 22.10308,41.498311 c 3.07221,-0.07493 20.306566,-0.07493 20.306566,-0.07493 0,0 5.183766,13.393784 13.262966,10.56541 3.981031,-1.393681 4.121259,-13.113096 4.121259,-13.113096 0,0 0.61702,-16.814818 -3.371941,-21.205753 C 52.432969,13.27901 47.954616,12.424707 32.518626,12.349775 17.082637,12.274845 11.786609,13.478655 7.9409341,17.595012 4.0952603,21.71137 3.8196756,44.046006 3.8196756,44.046006 c 0,0 -0.6061264,6.147396 4.7756872,7.99277 C 14.350157,54.012045 22.10308,41.498315 22.10308,41.498315 Z"
+       id="path869"
+       sodipodi:nodetypes="ccsczzzcsc" />
+    <path
+       style="fill:none;stroke:#404040;stroke-width:2.5159;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 13.264761,27.421188 c 0.27977,0 9.512147,0 9.512147,0"
+       id="path1556" />
+    <path
+       style="fill:none;stroke:#404040;stroke-width:2.5159;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.058732,22.657377 c 0,0.279769 0,9.512142 0,9.512142"
+       id="path1556-1" />
+    <ellipse
+       style="fill:none;stroke:#404040;stroke-width:2.38245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1913"
+       cx="45.123081"
+       cy="27.390669"
+       rx="6.6916542"
+       ry="6.7104745" />
+  </g>
+</svg>
