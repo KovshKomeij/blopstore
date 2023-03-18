@@ -12,14 +12,14 @@ $avtor = $_POST['avto'];
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
 $mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'smtp.mail.ru';  																							// Specify main and backup SMTP servers
+$mail->Host = 'smtp.gmail.com';  																							// Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'blopstore@mail.ru'; // Ваш логин от почты с которой будут отправляться письма
-$mail->Password = 'ipRm?3uOpAP3'; // Ваш пароль от почты с которой будут отправляться письма
+$mail->Username = 'blopstore128@gmail.com'; // Ваш логин от почты с которой будут отправляться письма
+$mail->Password = 'iJQKaGkM7d4gSgb'; // Ваш пароль от почты с которой будут отправляться письма
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465; // TCP port to connect to / этот порт может отличаться у других провайдеров
 
-$mail->setFrom('blopstore@mail.ru'); // от кого будет уходить письмо?
+$mail->setFrom('blopstore128@gmail.com'); // от кого будет уходить письмо?
 $mail->addAddress('dibil228of@blopsoft.ru');     // Кому будет уходить письмо 
 $mail->isHTML(true);                                  // Set email format to HTML
 
