@@ -20,7 +20,7 @@ $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, 
 $mail->Port = 465; // TCP port to connect to / этот порт может отличаться у других провайдеров
 
 $mail->setFrom('blopstore@mail.ru'); // от кого будет уходить письмо?
-$mail->addAddress('legubrawl@gmail.com');     // Кому будет уходить письмо 
+$mail->addAddress('dibil228of@blopsoft.ru');     // Кому будет уходить письмо 
 $mail->isHTML(true);                                  // Set email format to HTML
 
 $mail->Subject = 'Приложение $name';
@@ -30,6 +30,6 @@ $mail->AltBody = '';
 if(!$mail->send()) {
     echo 'Error';
 } else {
-    echo 'У тебя отправиласть анкета про твоё приложение!';
+    header('location: loaded.html');
 }
 ?>
