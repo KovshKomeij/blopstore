@@ -3,7 +3,6 @@
     font-family: 'Russo One', sans-serif;
     text-decoration: none;
     font-size: 24px;
-    text-shadow: 1px 1px 4px black;
 }
 
 body {
@@ -14,7 +13,33 @@ body {
 
 main {
     padding: 24px;
+    text-shadow: 1px 1px 4px black;
 }
+
+main p {
+	font-size: 16px
+}
+
+.app {
+	display: flex;
+	align-items: center;
+}
+
+.open {
+	margin-left: 24px;
+    padding: 16px;
+    color: #E9AF09;
+	font-size: 24px;
+    background-color: #4F1257;
+	text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
+}
+
+.open:hover {
+    background-color: #E9AF09;
+    color: #4F1257;
+}
+
 
 .taber {
     display: flex;
@@ -58,7 +83,19 @@ main {
     min-width: 0;
 }
 
-.tabs {
+.tabs1 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 0%;
+    flex: 1 1 0%;
+    min-width: 0;
+    background: #C666FE;
+    text-shadow: 1px 1px 4px black;
+}
+
+.tabs2 {
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
