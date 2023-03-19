@@ -103,26 +103,3 @@ main {
     padding-left: 8px;
     margin-left: 8px;
 }
-
-.lod {
-    display: block;
-    width: 100%;
-    height: 26px;
-    color: black;
-    background-color: #DDCC5F;
-    border: none;
-    border-radius: 24px;
-    padding: 8px;
-    margin-bottom: 8px;
-}
-
-.lodbut {
-    display: block;
-    width: 100%;
-    color: #fff;
-    background-color: #DDCC5F;
-    border: none;
-    border-radius: 24px;
-    padding: 8px;
-    margin-bottom: 8px;
-}
